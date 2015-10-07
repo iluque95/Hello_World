@@ -19,7 +19,7 @@ import static java.lang.System.exit;
 public class Application {
 	public static void main(String[] args) {
 		new A();
-		out.println("Hello World From Java!");
+		out.println("Hello World: To forgive all is as human as to forgive none (Seneca). Fortunely we have GIT");
 
 		//Exemple d'us d'atributs estàtics
 		out.println("PI = " + PI);
