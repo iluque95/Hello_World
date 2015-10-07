@@ -20,7 +20,7 @@ public class Application {
 	public static void main(String[] args) {
 		new A();
 <<<<<<< HEAD
-		out.println("Hello World From Vilanova");
+		out.println("jelou uol From Vilanova");
 =======
 		out.println("Hello World: To forgive all is as human as to forgive none (Seneca). Fortunely we have GIT");
 >>>>>>> 90a7f2b99122fc722c04cee86e51f7594e72d1ef
