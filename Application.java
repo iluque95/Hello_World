@@ -20,7 +20,7 @@ public class Application {
 	public static void main(String[] args) {
 		new A();
 <<<<<<< HEAD
-		out.println("Hello World From Vilanova VERS ORIGINAL");
+		out.println("Hello World From NetBeans");
 =======
 <<<<<<< HEAD
 		out.println("jelou uol From Vilanova");
